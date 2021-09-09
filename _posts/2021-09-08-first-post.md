@@ -1,1 +1,2 @@
-
+Today I Learned (TIL): First Post
+Here is a draft of the first post. Ideally it would contain substantive content. And proper styling...
