@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+Today I Learned: "A Potpourri of Posts"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ideally this blog will contain sections for "About" and "Blog"  ...
